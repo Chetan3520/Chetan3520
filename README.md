@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetan3520" alt="chetan3520" /></a> </p>
 
-- 🔭 I’m currently working on **T20 match Score prediction**
+- 🔭 I’m currently working on **T20 match Score prediction.**
 
 - 🌱 I’m currently learning **Flask, Streamlit, AWS Clouds.**
 
