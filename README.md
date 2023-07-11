@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **T20 match Score prediction**
 
-- 🌱 I’m currently learning **Flask, Streamlit,AWS Clouds.**
+- 🌱 I’m currently learning **Flask, Streamlit, AWS Clouds.**
 
 - 💬 Ask me about **Statistics for Data Science and ML models**
 
