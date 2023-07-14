@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flask, Streamlit, AWS Clouds.**
 
-- 💬 Ask me about **Statistics for Data Science and ML models**
+- 💬 Ask me about **Statistics For Data Science And ML models**
 
 - 📫 How to reach me **chetansalunke352000@gmail.com**
 
