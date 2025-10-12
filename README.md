@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetan3520" alt="chetan3520" /></a> </p>
 
-- 🔭 I’m currently working on **Deep Learning and Generative AI.**
+- 🔭 I’m currently working on **Generative AI.**
 
-- 🌱 I’m currently learning **Flask, Streamlit, AWS Clouds.**
+- 🌱 I’m currently learning **Azure AI**
 
-- 💬 Ask me about **Statistics For Data Science And ML models**
+- 💬 Ask me about **Statistics For Data Science LLM's And ML models**
 
-- 📫 How to reach me **chetansalunke352000@gmail.com**
+- 📫 How to reach me **workwithchetansalunke@gmail.com**
 
 - ⚡ Fun fact **I think I am always curious to learn new things.**
 
